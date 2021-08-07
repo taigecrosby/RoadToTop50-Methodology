@@ -128,7 +128,7 @@ Upload a meterpreter shell and create your immediate task like so.
 
 Once you have injected your task, you will need to force a Group Policy update with the following
 ```
-GNUpdate /force
+GPUpdate /force
 ```
 
 With any luck you should gain a root shell.
